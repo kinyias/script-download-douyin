@@ -30,7 +30,7 @@ Mọi script trong bộ này đều được thiết kế để chạy trực ti
 *   **Cách dùng:**
     - Bạn có thể đứng ở bất kỳ trang nào trên Douyin.
     - Chạy script.
-    - Một hộp thoại hiện lên, hãy dán link video Douyin vào (Ví dụ: `https://www.douyin.com/video/7...`).
+    - Một hộp thoại hiện lên, hãy dán link video Douyin vào (Ví dụ: `https://www.douyin.com/video/7...`) (lấy link bằng cách nhấn nút share).
     - Script sẽ xử lý và hiển thị thông báo khi lấy được link.
     - Bạn có thể chọn mở link ngay để tải về hoặc sử dụng link đã được copy tự động vào clipboard.
 
